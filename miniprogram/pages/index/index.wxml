@@ -1,0 +1,4 @@
+<view class="window_view">
+  <button type="primary" class="circle_botton_center" bindtap="goto_appointment">预约</button>
+  <button type="primary" class="circle_botton_right">医院方</button>
+</view>

@@ -1,0 +1,15 @@
+
+<view class="window_view">
+  <button id="0" type="primary" bindtap="goto_map">地图</button>
+  <view class="pub-comment">
+    <view class="pub-left">
+      <input class="pub-input" placeholder="{{plcaceHolder}}" bindinput="getInputValue" value="{{inputValue}}"></input>
+    </view>
+
+    <view class="pub-button" bindtap="publishChat">发送</view>
+  </view>
+  
+</view>
+
+
+
